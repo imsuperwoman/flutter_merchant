@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838595989137",
+    "project_id": "mse-steel",
+    "storage_bucket": "mse-steel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838595989137:android:d3d8492209318dddd53930",
+        "android_client_info": {
+          "package_name": "com.artistedesign.flutter_mse_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838595989137-g1ndlqemdjj68oarme10j6gmqp7l2cbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmGeacYQ7eeGMZprNvp4ty6X8TiZqsZx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838595989137-g1ndlqemdjj68oarme10j6gmqp7l2cbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
